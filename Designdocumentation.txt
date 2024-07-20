@@ -1,0 +1,9 @@
+Design documentation
+Each drone will have the following inputs
+x and y position
+time input
+
+
+
+
+and the following ouputs
